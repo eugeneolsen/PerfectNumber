@@ -53,10 +53,9 @@ void GetParts(long long perfect, stack<long long>& parts)
     } while (part > 1);
 }
 
+
 int main()
 {
-    bool isPerfect = false;
-
     cout << "Perfect Numbers\n\n"; 
 
     for (int p = 2; p < 32; p++)
