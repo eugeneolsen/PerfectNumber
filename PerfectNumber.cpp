@@ -90,7 +90,7 @@ int main()
                 parts.pop();
             }
 
-            _ASSERT(sum == perfect);    // validate that the sum of the parts is the Perfect Number
+            _ASSERT(sum == perfect);    // validate that the sum of the parts equals the Perfect Number
 
             cout << "\n\n";
         }
