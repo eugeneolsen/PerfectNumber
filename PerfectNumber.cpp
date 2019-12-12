@@ -58,9 +58,9 @@ int main()
 {
     cout << "Perfect Numbers\n\n"; 
 
-    for (int p = 2; p < 32; p++)
+    for (int p = 2; p < 32; p++)    // p is a power of 2
     {
-        long long M = (long long)pow(2.0, p) - 1;
+        long long M = (long long)pow(2.0, p) - 1;   // M is a Mersenne Prime number
 
         if (IsMersennePrime(M, p) || p == 2)
         {
