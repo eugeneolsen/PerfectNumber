@@ -3,7 +3,7 @@ A C++ program that finds the first 8 perfect numbers *very* quickly and outputs 
 
 Euclid mentions in *Elements* Book VII, Definition 22 that a Perfect Number is equal to the sum of its parts.
 
-In Book IX, Proposition 36 Euclid mentions a "shortcut" for finding perfect numbers: 
+In Book IX, Proposition 36 Euclid offers a "shortcut" for finding perfect numbers: 
 
 *If as many numbers as we please beginning with an unit be set out continuousely in a double portion, until the sum of all becomes prime, and if the sum multiplied into the last make some number, the product will be perfect.*
 
